@@ -1,4 +1,6 @@
 main:
+  - title: "EDS124BR"
+    url: /eds124br/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
