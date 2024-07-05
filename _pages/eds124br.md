@@ -12,4 +12,4 @@ title: "EDS124BR"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLMd2caSVAM?si=9MtCZUPDi1g0flZ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Kangaroo, Bee and Grasshopper Repeats explanation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bbAztfFIwS4?si=4qMevo3nNasem0Fj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RtcLBdayhg?si=S1YikQO1dwuPjxI1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
