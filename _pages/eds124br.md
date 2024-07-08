@@ -13,3 +13,6 @@ title: "EDS124BR"
 
 # Kangaroo, Bee and Grasshopper Repeats explanation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RtcLBdayhg?si=S1YikQO1dwuPjxI1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Mouse Program with Nested Repeats
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tExaTB-MDMY?si=VtPtJBlGhJpj_Jro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
