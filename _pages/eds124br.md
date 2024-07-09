@@ -16,3 +16,7 @@ title: "EDS124BR"
 
 # Mouse Program with Nested Repeats
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tExaTB-MDMY?si=VtPtJBlGhJpj_Jro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Monkey Game using Events
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lk-ODTyMe8E?si=jZsx9sMJYwAqy5FH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
