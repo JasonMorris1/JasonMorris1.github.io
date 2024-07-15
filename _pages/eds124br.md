@@ -24,3 +24,7 @@ title: "EDS124BR"
 # Drawing Program using variables
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DC2lFJwIf3g?si=3nNKtRY2_nlLn2tT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+# Conditional Loops
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x9_5KMFtA3s?si=M0eop5R4xZ7T600-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
