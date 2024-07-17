@@ -32,3 +32,6 @@ title: "EDS124BR"
 
 # Conditional Loops
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yIktf4bMf6s?si=jTX_VjQ3JGfsXOhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Target Game using if and if else statments
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-88dzjcuJS8?si=6j8AtJ8DqY69QigF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
