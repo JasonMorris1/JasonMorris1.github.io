@@ -38,3 +38,7 @@ title: "EDS124BR"
 
 # Nested if else
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EMuPdM2KKAI?si=AKoMUEoZsRnd0_RE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+# Metal Detector Game with Compound Conditions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTfVdTtFrkA?si=zsxO6BmBJI86k0FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
