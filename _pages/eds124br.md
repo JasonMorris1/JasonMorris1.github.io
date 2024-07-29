@@ -42,3 +42,6 @@ title: "EDS124BR"
 
 # Metal Detector Game with Compound Conditions
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TTfVdTtFrkA?si=zsxO6BmBJI86k0FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#Custom Blocks and abstractions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VgIDv3bFTRA?si=WYy2O39Qy9nuwpsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
